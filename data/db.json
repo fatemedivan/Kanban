@@ -1,0 +1,38 @@
+{
+  "columns": [
+    {
+      "id": "1751888944956",
+      "title": "In Progress",
+      "tasks": [
+        {
+          "title": "english",
+          "id": 0.8539832210566305
+        },
+        {
+          "title": "rentify project",
+          "id": 0.3257110749625217
+        }
+      ]
+    },
+    {
+      "id": "30f6",
+      "title": "To Do",
+      "tasks": [
+        {
+          "title": "regal project",
+          "id": 0.3790447863957995
+        }
+      ]
+    },
+    {
+      "id": "2025-08-23T13:15:24.927Z",
+      "title": "Done",
+      "tasks": [
+        {
+          "title": "react-hook-form",
+          "id": 0.06796570361000809
+        }
+      ]
+    }
+  ]
+}
