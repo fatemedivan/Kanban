@@ -5,12 +5,12 @@
       "title": "In Progress",
       "tasks": [
         {
-          "title": "english",
-          "id": 0.8539832210566305
-        },
-        {
           "title": "rentify project",
           "id": 0.3257110749625217
+        },
+        {
+          "title": "english",
+          "id": 0.5674367682299833
         }
       ]
     },
@@ -21,6 +21,14 @@
         {
           "title": "regal project",
           "id": 0.3790447863957995
+        },
+        {
+          "title": "react query",
+          "id": 0.23736837209027462
+        },
+        {
+          "title": "zustand",
+          "id": 0.18963452375646173
         }
       ]
     },
