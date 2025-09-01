@@ -11,7 +11,7 @@ export default function Columns() {
   const { mutate } = useDeleteColumn();
 
   return (
-    <div className="w-full min-w-[1000px] h-full flex flex-col gap-4">
+    <div className="w-full  h-full flex flex-wrap flex-col gap-4">
       {/* Header */}
       <header className="flex items-center justify-between">
         <div className="flex items-baseline gap-3">
